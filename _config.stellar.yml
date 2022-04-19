@@ -21,7 +21,7 @@ sidebar:
   menu:
     post: '[文章](/)'
     # wiki: '[文档](/wiki/)'
-    friends: '[友链](/friends)'
+    # friends: '[友链](/friends)'
     about: '[关于](/about/)'
   # Sidebar widgets
   widget_layout:
