@@ -47,7 +47,7 @@ sidebar:
       layout: markdown
       title: 欢迎！
       content: | # support markdown
-        欢迎来到我的小站！尝试了1919810遍，终于成功了！
+        欢迎来到我的小站！~~生草小站（指正）~~
 ######## Main ########
 breadcrumb:
   home: home # config.title / config.author / home or custom content
@@ -142,11 +142,11 @@ footer:
     #   icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/942ebbf1a4b91.svg"/>'
     #   url: /about/#comments
   sitemap:
-    # '博客':
-    #   - '[近期](/)'
-    #   - '[分类](/)'
-    #   - '[标签](/)'
-    #   - '[归档](/)'
+    '博客':
+     - '[近期](/)'
+     - '[分类](/)'
+     - '[标签](/)'
+     - '[归档](/)'
     # '项目':
     #   - '[开源库](/)'
     # '社交':
