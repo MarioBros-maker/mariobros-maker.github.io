@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SMBFANS的小站
+title: SMBFANSの小站
 subtitle: A blog. Attempt#1919810.
 description: 
 keywords:
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://blog.miriao.ga
+url: http://blog.smbfans.ga
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
