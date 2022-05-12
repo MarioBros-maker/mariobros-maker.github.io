@@ -76,7 +76,7 @@ article:
 
 ######## Comments ########
 comments:
-  service: # beaudar, utterances, valine, twikoo
+  service: valine # beaudar, utterances, valine, twikoo
   # beaudar
   # https://beaudar.lipk.org/
   beaudar:
