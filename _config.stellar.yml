@@ -47,7 +47,7 @@ sidebar:
       layout: markdown
       title: 欢迎！
       content: | # support markdown
-        欢迎来到我的小站！~~生草小站（指正）~~
+        欢迎来到我的小站！~~草站（指正）~~
 ######## Main ########
 breadcrumb:
   home: home # config.title / config.author / home or custom content
@@ -55,7 +55,7 @@ breadcrumb:
 ######## Article ########
 article:
   # 如果没有指定封面，是否根据 tags 作为关键词搜索封面？
-  auto_cover: false # search from https://source.unsplash.com/
+  auto_cover: true # search from https://source.unsplash.com/
   # 如果没有指定 excerpt 和 description，将自动取多长的内容作为文章摘要？
   auto_excerpt: 200
   # 分类颜色
@@ -144,9 +144,8 @@ footer:
   sitemap:
     '博客':
      - '[近期](/)'
-     - '[分类](/)'
-     - '[标签](/)'
-     - '[归档](/)'
+     - '[标签](/tags)'
+     - '[归档](/archives)'
     # '项目':
     #   - '[开源库](/)'
     # '社交':
