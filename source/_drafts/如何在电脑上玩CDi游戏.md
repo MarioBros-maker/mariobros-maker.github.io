@@ -34,5 +34,18 @@ CD-i Emulator，一个闭源付费软件模拟器。 最新的公开版本 0.5.3
 
 ## 总结
 
-如
+用这种方法玩CD-i游戏，配置较为简单，但是用鼠标操作是一个硬伤，另外还有音画不同步等种种问题，个人不推荐使用，但如果有特殊需求的话可以使用。
+
+# 三、使用RetroArch中的[SAME CDi](https://docs.libretro.com/library/same_cdi/)进行模拟
+
+## 介绍
+
+SAME CDi 是一个用于 libretro 的 S(ingle) A(rcade) M(achine) E(mulator)，从 MAME libretro 分叉出来，而 MAME libretro 又是 MAME 的一个分支。 它仅包括飞利浦 CD-i 驱动程序，并简化了 CD 内容的加载以提供“即插即用”体验。（摘录自[Libretro Docs](https://docs.libretro.com/library/same_cdi/)）
+
+## 方法
+
+这个难一点。首先，打开RetroArch，选择加载内核。（如果没有下载内核的话，要先下载内核Philips-CDi (SAME CDi)）下载完成之后关掉Retroarch。
+然后，下载[BIOS](https://drive.google.com/file/d/110hzDtFX0NjOYr9Xnsxq5Mrh5tjJRoRj/view?usp=sharing)
+把里面的三个文件 **（里面三个压缩包不用再解压！如果不行的话再解压）**解压到 %你的RetroArch系统文件夹（可以到设置-最后一个Directory-第一个System/BIOS中查看）%/same_cdi/bios中（如果文件夹没有就自己创建）。
+最后，打开RetroArch,选择加载内容，选择你的ROM文件（仅支持.chd和.iso格式）
 
