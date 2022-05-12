@@ -15,15 +15,24 @@ tags:
 
 想要模拟CD-i，你将需要：一台运行正常的**电脑（手机不行！！）**、游戏ROM文件、CD-i的BIOS以及模拟器。
 
-游戏ROM可以到[互联网档案馆](https://archive.org/download/redump.cdi.revival)以及[edge|emulation](https://edgeemu.net/browse-cdi.htm)去下载。你也可以自己dump一份或者使用其他来源的ROM。
+游戏ROM可以到[互联网档案馆（.bin格式，用CD-i Emulator打开）](https://archive.org/download/redump.cdi.revival)以及[edge|emulation（.chd格式，用SAME CD-i打开）](https://edgeemu.net/browse-cdi.htm)去下载。你也可以自己dump一份或者使用其他来源的ROM。
 
 # 二、使用[CD-i Emulator](https://cdiemu.org)进行模拟
 
 ### 作者提醒：这个模拟器使用**鼠标**进行操作！你没听错，是**鼠标**！这把CDi的操作屎度直接放大了114.5141919810倍！如果受不了的话请直接跳转到下一章。
 
-介绍：CD-i Emulator，一个闭源付费软件模拟器。 最新的公开版本 0.5.3 beta 4 可以追溯到 2018 年，不幸的是，由于 beta 版本中处理免费试用时间的方式，现在无法播放。 测试版确实具有*数字视频盒*（不知道这是啥）的概念验证仿真，但兼容性可能仍然是一个问题。 尽管发布之间的时间很长，但截至 2021 年 7 月，该模拟器似乎仍在积极开发中，正在开发下一个版本（可能称为 0.6），据报道该版本支持大多数 DVC 游戏，并且还有其他一些改进。（摘录自[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Philips_CD-i_emulators)）
+## 介绍
+
+CD-i Emulator，一个闭源付费软件模拟器。 最新的公开版本 0.5.3 beta 4 可以追溯到 2018 年，不幸的是，由于 beta 版本中处理免费试用时间的方式，现在无法播放。 测试版确实具有*数字视频盒*（不知道这是啥）的概念验证仿真，但兼容性可能仍然是一个问题。 尽管发布之间的时间很长，但截至 2021 年 7 月，该模拟器似乎仍在积极开发中，正在开发下一个版本（可能称为 0.6），据报道该版本支持大多数 DVC 游戏，并且还有其他一些改进。（摘录自[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Philips_CD-i_emulators)）
+
+## 方法
 
 首先，[下载（破解过的）模拟器](http://tgames.fr/tgames/cdiemu-0.5.3-beta4-PatchedV1.2.zip),然后，把它解压到电脑的任意地方。打开“wcdiemu-v053b4.exe”，它应该会显示一个窗口：
 ![Rp5bfh.png](https://www.helloimg.com/images/2022/05/12/Rp5bfh.png)
-这时我们不用担心，下载[BIOS文件](https://drive.google.com/file/d/1S9Xqhb7sCXC3SZhxMUHjMuPSbHXRnJyD/view?usp=sharing)，解压到模拟器文件夹里的rom文件夹即可。
+这时我们不用担心，下载[BIOS文件](https://drive.google.com/file/d/1S9Xqhb7sCXC3SZhxMUHjMuPSbHXRnJyD/view?usp=sharing)，解压到模拟器文件夹里的rom文件夹即可。再次打开之后应该不会显示提示了。如图[![RpBCGA.png](https://www.helloimg.com/images/2022/05/12/RpBCGA.png)](https://www.helloimg.com/image/RpBCGA)
+之后，点击File，再点击Open...，选择你下载的ROM文件。最后，点击窗口左上角的[![Rp5uan.png](https://www.helloimg.com/images/2022/05/12/Rp5uan.png)](https://www.helloimg.com/image/Rp5uan)即可。不出意外的话，会显示这个画面： 用鼠标点击Play CD-i，就可以畅快开玩了！
+
+## 总结
+
+如
 
