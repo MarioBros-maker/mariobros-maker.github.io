@@ -30,7 +30,7 @@ CD-i Emulator，一个闭源付费软件模拟器。 最新的公开版本 0.5.3
 首先，[下载（破解过的）模拟器](http://tgames.fr/tgames/cdiemu-0.5.3-beta4-PatchedV1.2.zip),然后，把它解压到电脑的任意地方。打开“wcdiemu-v053b4.exe”，它应该会显示一个窗口：
 ![Rp5bfh.png](https://www.helloimg.com/images/2022/05/12/Rp5bfh.png)
 这时我们不用担心，下载[BIOS文件](https://drive.google.com/file/d/1S9Xqhb7sCXC3SZhxMUHjMuPSbHXRnJyD/view?usp=sharing)，解压到模拟器文件夹里的rom文件夹即可。再次打开之后应该不会显示提示了。如图[![RpBCGA.png](https://www.helloimg.com/images/2022/05/12/RpBCGA.png)](https://www.helloimg.com/image/RpBCGA)
-之后，点击File，再点击Open...，选择你下载的ROM文件。最后，点击窗口左上角的[![Rp5uan.png](https://www.helloimg.com/images/2022/05/12/Rp5uan.png)](https://www.helloimg.com/image/Rp5uan)即可。不出意外的话，会显示这个画面： 用鼠标点击Play CD-i，就可以畅快开玩了！
+之后，点击File，再点击Open...，选择你下载的ROM文件。最后，点击窗口左上角的[![Rp5uan.png](https://www.helloimg.com/images/2022/05/12/Rp5uan.png)](https://www.helloimg.com/image/Rp5uan)即可。不出意外的话，会显示这个画面： [![RpB3ar.png](https://www.helloimg.com/images/2022/05/12/RpB3ar.png)](https://www.helloimg.com/image/RpB3ar)用鼠标点击Play CD-i，就可以畅快开玩了！
 
 ## 总结
 
