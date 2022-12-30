@@ -36,3 +36,5 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+I want to make Travis CI work so I changed this article.
