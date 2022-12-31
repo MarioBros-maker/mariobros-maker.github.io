@@ -28,15 +28,10 @@ menu:
         - /
         - icon-home
     文章归档:
-        - /archive.html
+        - /archives/index.html
         - icon-container
-    我的朋友:
-        - /PY.html
-    给我赞助:
-        - /donate.html
-        - icon-coffee
     关于博主:
-        - /about.html
+        - /about/index.html
         - icon-info-circle
 
 widgets:
