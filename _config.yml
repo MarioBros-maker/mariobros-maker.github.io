@@ -97,7 +97,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+<<<<<<< HEAD
 theme: matery
+=======
+theme: hexo-theme-matery
+>>>>>>> 825ce12807a3ef384659a53202a3fe19b61b567e
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
