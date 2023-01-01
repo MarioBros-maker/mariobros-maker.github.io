@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blue_Froyd的小站
-subtitle: A crazy Mario & Pink Floyd lover's blog.
-description: Description.
+title: Blue_Froyd's Space
+subtitle: So,welcome.
+description: 一个成分很杂的网民在互联网一个不知名角落的小窝（雾）。
 keywords:
 author: Miriao
 language: zh
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.miriao.ga
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: nexmoe
+theme: hexo-theme-matery
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
