@@ -103,6 +103,6 @@ theme: matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/MarioBros-maker/blog
+  repo: https://github.com/MarioBros-maker/mariobros-maker.github.io
   branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
