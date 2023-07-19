@@ -1,9 +1,12 @@
 ---
+abbrlink: ''
+categories: []
+date: '2022-12-30 16:42:17'
+tags:
+- 一个标签
 title: 一个测试用的文章
-date: 2022-12-30 16:42:17
-tags: 一个标签
+updated: '2023-07-19 22:01:12'
 ---
-
 # 一个很大的标题
 
 <p>一个挺短的段落。</br>
@@ -14,9 +17,10 @@ tags: 一个标签
 > The perfect recipe for a blog:
 >
 >> npm install hexo-cli -g
->> hexo init 
+>> hexo init
 >> npm install
->> hexo new post 【Post Name】
+>> hexo new post [Post Name]
 >> hexo server
+>>
 >
->That's **easy**!
+> That's **easy**!
